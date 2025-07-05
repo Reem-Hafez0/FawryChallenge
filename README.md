@@ -3,7 +3,7 @@
 This project is a basic simulation of an e-commerce system in Java. It supports product management, cart operations, checkout with balance and stock validation, and handles shipping logic.
 
 ## Features
-- Define products with name, price, quantity, expiration, shipping status, and weight.
+- Define products with name, price, quantity.
 - Add items to cart with specific quantities.
 - Prevent adding expired or out-of-stock products.
 - Calculate subtotal, shipping cost, and total amount.
